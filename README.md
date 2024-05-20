@@ -1,4 +1,4 @@
-# -Diagnosis-Of-Melanoma-Using-CNN
+# MELANOMA-CLASSIFICATION-USING-CNN
  There are around 200 distinct cancers. With a death incidence of 1 in 200, melanoma is among the worst types of skin cancer. 
  Dermatoscopic examination, histological examination, and clinical screening are all steps in the diagnosis of melanoma. 
  If detected early, the skin cancer melanoma is very treatable.
